@@ -24,8 +24,6 @@
 <|endofutterance|>
 ## 二、提交内容
 由于模型较大，同学们的实验提交内容请上传到此提交连接：
-https://pan.baidu.com/disk/main#/transfer/send?surl=AD0AAAAAABPwyA
-提交截止时间：2025年11月7日（星期五）晚23:59分
 
 提交文件的名称为“学号-姓名.zip”，包含以下内容：
 1. 经过SFT微调的LLM，应能被transformers.AutoModelForCausalLM加载；
